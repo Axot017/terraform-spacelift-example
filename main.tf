@@ -14,7 +14,7 @@ resource "spacelift_stack" "example-stack" {
   branch            = "main"
   description       = "Shared production infrastructure (networking, k8s)"
   repository        = "onboarding"
-  terraform_version = "1.8.3"
+  terraform_version = "1.5.0"
 }
 
 resource "spacelift_webhook" "simple-webhook-4" {
