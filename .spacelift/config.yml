@@ -11,4 +11,4 @@ tests:
 
   - name: Stack with Env Vars (TF 0.15)
     project_root: examples/stack-with-env-vars
-    terraform_version: 0.15.5
+    terraform_version: 1.8.3
