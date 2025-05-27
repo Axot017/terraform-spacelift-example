@@ -12,7 +12,7 @@ resource "spacelift_stack" "example-stack" {
   administrative    = true
   autodeploy        = false
   branch            = "main"
-  description       = "Shared production infrastructure (networking, k8s) - 3"
+  description       = "Shared production infrastructure (networking, k8s) - 4"
   repository        = "onboarding"
   terraform_version = "1.5.0"
 }
