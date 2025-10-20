@@ -1,5 +1,5 @@
 version: "1"
-module_version: 21.3.7
+module_version: 99.102.0
 runner_image: spacelift/runner:latest
 
 tests:
