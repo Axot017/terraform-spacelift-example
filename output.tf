@@ -1,4 +1,4 @@
 output "new_stack_id" {
   value = spacelift_stack.example-stack.id
-  description = "id of created stack"
+  description = "id of created stack 1"
 }
